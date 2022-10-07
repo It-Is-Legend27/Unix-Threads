@@ -7,4 +7,5 @@ gcc main.c
 ```
 ### Useful resources:
 > https://www.geeksforgeeks.org/sum-array-using-pthreads/
+> 
 > https://www.geeksforgeeks.org/thread-functions-in-c-c/
